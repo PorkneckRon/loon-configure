@@ -1,26 +1,102 @@
 {
-  "AppleMusic": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleMusic.png",
-  "AppleNews-Background-Change": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleNews-Background-Change.png",
-  "AppleNews": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleNews.png",
-  "AppleTV": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleTV.png",
-  "BiliBili": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/BiliBili.png",
-  "ChatGPT-Dark": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-Dark.png",
-  "Claude": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Claude.png",
-  "Copilot": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Copilot.png",
-  "Disney": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Disney.png",
-  "Facebook": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Facebook.png",
-  "GitHub": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/GitHub.png",
-  "GitLab": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/GitLab.png",
-  "Instagram": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Instagram.png",
-  "LinkedIn": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LinkedIn.png",
-  "Netflix": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Netflix.png",
-  "Spotify": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Spotify.png",
-  "Steam": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Steam.png",
-  "Telegram-Background-Change": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Telegram-Background-Change.png",
-  "Telegram": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Telegram.png",
-  "TikTok": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/TikTok.png",
-  "Twitter": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Twitter.png",
-  "WeChat": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/WeChat.png",
-  "YouTube-Background-Change": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/YouTube-Background-Change.png",
-  "YouTube": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/YouTube.png"
+  "name": "App Icons",
+  "description": "PorkneckRon",
+  "icons": [
+    {
+      "name": "AppleMusic",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleMusic.png"
+    },
+    {
+      "name": "AppleNews-Background-Change",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleNews-Background-Change.png"
+    },
+    {
+      "name": "AppleNews",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleNews.png"
+    },
+    {
+      "name": "AppleTV",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/AppleTV.png"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/BiliBili.png"
+    },
+    {
+      "name": "ChatGPT-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-Dark.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Claude.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Copilot.png"
+    },
+    {
+      "name": "Disney",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Disney.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Facebook.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/GitHub.png"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/GitLab.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Instagram.png"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LinkedIn.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Netflix.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Spotify.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Steam.png"
+    },
+    {
+      "name": "Telegram-Background-Change",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Telegram-Background-Change.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Telegram.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/TikTok.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Twitter.png"
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/WeChat.png"
+    },
+    {
+      "name": "YouTube-Background-Change",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/YouTube-Background-Change.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/YouTube.png"
+    }
+  ]
 }
