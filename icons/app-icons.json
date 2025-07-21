@@ -97,6 +97,10 @@
     {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/YouTube.png"
+    },
+    {
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Talkatone.png"
     }
   ]
 }
