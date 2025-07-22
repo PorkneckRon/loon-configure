@@ -105,6 +105,10 @@
     {
       "name": "Discord",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Discord.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Reddit.png"
     }
   ]
 }
