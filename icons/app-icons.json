@@ -109,6 +109,14 @@
     {
       "name": "Reddit",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Reddit.png"
-    }
+    },
+     {
+      "name": "LINE",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LINE.png"
+    },
+     {
+      "name": "Messenger",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Messenger.png"
+    },
   ]
 }
