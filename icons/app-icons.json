@@ -101,6 +101,10 @@
     {
       "name": "Talkatone",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Talkatone.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Discord.png"
     }
   ]
 }
