@@ -117,6 +117,10 @@
      {
       "name": "Messenger",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Messenger.png"
+    },
+    {
+      "name": "Messenger-Background-Change",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Messenger-Background-Change.png"
     }
   ]
 }
