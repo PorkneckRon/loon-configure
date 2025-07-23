@@ -23,6 +23,14 @@
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/BiliBili.png"
     },
     {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT.png"
+    },
+    {
+      "name": "ChatGPT-Background-Change",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-Background-Change.png"
+    },
+    {
       "name": "ChatGPT-Dark",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-Dark.png"
     },
