@@ -3,10 +3,6 @@
   "description": "PorkneckRon",
   "icons": [
     {
-      "name": "large",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/large.GIF"
-    },
-    {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple.png"
     },
