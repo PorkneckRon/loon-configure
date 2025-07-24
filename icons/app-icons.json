@@ -3,8 +3,8 @@
   "description": "PorkneckRon",
   "icons": [
     {
-      "name": "Apple-WWDC25",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple-WWDC25.webm"
+      "name": "large",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/large.GIF"
     },
     {
       "name": "Apple",
