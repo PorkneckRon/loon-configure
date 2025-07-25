@@ -3,6 +3,14 @@
   "description": "PorkneckRon",
   "icons": [
     {
+      "name": "Proxy-LiquidGlass-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/proxy-LiquidGlass-Default.png"
+    },
+    {
+      "name": "Proxy-LiquidGlass-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/proxy-LiquidGlass-Dark.png"
+    },
+    {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple.png"
     },
