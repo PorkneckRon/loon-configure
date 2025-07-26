@@ -1,1 +1,18 @@
-1
+1{
+  "name": "App Icons",
+  "description": "PorkneckRon",
+  "icons": [
+    {
+      "name": "Proxy-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Proxy-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Proxy-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Proxy-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Proxy-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Proxy-LiquidGlass-WatchOS.png"
+    }
+  ]
+}
