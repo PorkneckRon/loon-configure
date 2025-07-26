@@ -8,11 +8,11 @@
     },
     {
       "name": "Proxy-LiquidGlass-iOS-Dark",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Proxy-LiquidGlass-iOS-Dark.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Proxy-LiquidGlass-iOS-Dark.png"
     },
      {
       "name": "Proxy-LiquidGlass-WatchOS",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Proxy-LiquidGlass-WatchOS.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Proxy-LiquidGlass-WatchOS.png"
     }
   ]
 }
