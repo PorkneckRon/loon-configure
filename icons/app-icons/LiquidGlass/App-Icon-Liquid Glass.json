@@ -13,6 +13,18 @@
      {
       "name": "Proxy-LiquidGlass-WatchOS",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Proxy-LiquidGlass-WatchOS.png"
+    },
+    {
+      "name": "Nexi-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Nexi-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Nexi-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Nexi-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Nexi-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Nexi-LiquidGlass-WatchOS.png"
     }
   ]
 }
