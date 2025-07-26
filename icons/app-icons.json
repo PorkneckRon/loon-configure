@@ -40,7 +40,7 @@
     },
     {
       "name": "Apple-LiquidGlass-iOS-Default",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple-LiquidGlass-iOS-Default-1.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple-LiquidGlass-iOS-Default-2.png"
     },
     {
       "name": "Apple-LiquidGlass-iOS-Dark",
@@ -48,11 +48,11 @@
     },
      {
       "name": "Apple-LiquidGlass-WatchOS",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple-LiquidGlass-WatchOS.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple-LiquidGlass-WatchOS-1.png"
     },
     {
       "name": "Microsoft-LiquidGlass-iOS-Default",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Microsoft-LiquidGlass-iOS-Default.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Microsoft-LiquidGlass-iOS-Default-1.png"
     },
     {
       "name": "Microsoft-LiquidGlass-iOS-Dark",
@@ -60,7 +60,19 @@
     },
      {
       "name": "Microsoft-LiquidGlass-WatchOS",
-      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Microsoft-LiquidGlass-WatchOS.png"
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Microsoft-LiquidGlass-WatchOS-1.png"
+    },
+     {
+      "name": "Google-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Google-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Google-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Google-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Google-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Google-LiquidGlass-WatchOS.png"
     },
     {
       "name": "Apple",
