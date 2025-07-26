@@ -75,6 +75,54 @@
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Google-LiquidGlass-WatchOS.png"
     },
     {
+      "name": "WeChat-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/WeChat-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "WeChat-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/WeChat-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "WeChat-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/WeChat-LiquidGlass-WatchOS.png"
+    },
+    {
+      "name": "ChatGPT-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "ChatGPT-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "ChatGPT-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/ChatGPT-LiquidGlass-WatchOS.png"
+    },
+    {
+      "name": "Claude-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Claude-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Claude-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Claude-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Claude-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Claude-LiquidGlass-WatchOS.png"
+    },
+    {
+      "name": "Copilot-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Copilot-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Copilot-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Copilot-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Copilot-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Copilot-LiquidGlass-WatchOS.png"
+    },
+    {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple.png"
     },
