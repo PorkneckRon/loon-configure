@@ -27,6 +27,18 @@
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Nexi-LiquidGlass-WatchOS-1.png"
     },
     {
+      "name": "Flower-LiquidGlass-iOS-Default",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Flower-LiquidGlass-iOS-Default.png"
+    },
+    {
+      "name": "Flower-LiquidGlass-iOS-Dark",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Flower-LiquidGlass-iOS-Dark.png"
+    },
+     {
+      "name": "Flower-LiquidGlass-WatchOS",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Nexi-LiquidGlass-WatchOS.png"
+    },
+    {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/Apple.png"
     },
