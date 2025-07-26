@@ -73,6 +73,18 @@
      {
       "name": "Google-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Google-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "WeChat-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/WeChat-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "WeChat-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/WeChat-LiquidGlass-iOS-Dark-1.png"
+    },
+     {
+      "name": "WeChat-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/WeChat-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
