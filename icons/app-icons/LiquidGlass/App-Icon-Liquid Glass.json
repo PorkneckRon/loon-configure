@@ -193,6 +193,18 @@
     {
       "name": "Talkatone-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Talkatone-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Talkatone-LiquidGlass-iOS-Default-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Talkatone-LiquidGlass-iOS-Default-2.png"
+    },
+    {
+      "name": "Talkatone-LiquidGlass-iOS-Dark-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Talkatone-LiquidGlass-iOS-Dark-2.png"
+    },
+    {
+      "name": "Talkatone-LiquidGlass-WatchOS-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Talkatone-LiquidGlass-WatchOS-2.png"
     }
   ]
 }
