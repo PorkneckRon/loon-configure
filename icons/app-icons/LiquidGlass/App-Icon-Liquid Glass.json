@@ -489,6 +489,18 @@
     {
       "name": "Asia-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Asia-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Europe-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Europe-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Europe-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Europe-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Europe-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Europe-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
