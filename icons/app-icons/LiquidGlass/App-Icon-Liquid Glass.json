@@ -265,6 +265,18 @@
     {
       "name": "TikTok-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/TikTok-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Grindr-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Grindr-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Grindr-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Grindr-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Grindr-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Grindr-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
