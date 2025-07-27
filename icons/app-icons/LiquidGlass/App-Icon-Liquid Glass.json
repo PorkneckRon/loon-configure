@@ -537,6 +537,18 @@
     {
       "name": "Hijacking-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Hijacking-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Privacy-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Privacy-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Privacy-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Privacy-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Privacy-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Privacy-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
