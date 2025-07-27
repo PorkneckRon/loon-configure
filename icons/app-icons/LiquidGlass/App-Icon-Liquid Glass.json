@@ -369,6 +369,18 @@
     {
       "name": "Bilibili-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Bilibili-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "YouTube-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/YouTube-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "YouTube-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/YouTube-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "YouTube-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/YouTube-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
