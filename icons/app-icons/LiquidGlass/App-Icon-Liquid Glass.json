@@ -417,6 +417,18 @@
     {
       "name": "Spotify-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Spotify-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "AppleNews-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleNews-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "AppleNews-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleNews-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "AppleNews-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleNews-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
