@@ -325,6 +325,14 @@
     {
       "name": "LINE-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LINE-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "AppleTV-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleTV-LiquidGlass-iOS-1.png"
+    },
+    {
+      "name": "AppleTV-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleTV-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
