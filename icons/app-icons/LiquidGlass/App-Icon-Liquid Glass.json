@@ -217,6 +217,18 @@
     {
       "name": "Facebook-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Facebook-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Instagram-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Instagram-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Instagram-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Instagram-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Instagram-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Instagram-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
