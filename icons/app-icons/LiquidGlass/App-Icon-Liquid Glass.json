@@ -346,5 +346,17 @@
       "name": "Netflix-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Netflix-LiquidGlass-WatchOS-1.png"
     },
+    {
+      "name": "Disney-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Disney-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Disney-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Disney-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Disney-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Disney-LiquidGlass-WatchOS-1.png"
+    }
   ]
 }
