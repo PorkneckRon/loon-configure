@@ -169,6 +169,18 @@
     {
       "name": "Claude-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Claude-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Copilot-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Copilot-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Copilot-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Copilot-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Copilot-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Copilot-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
