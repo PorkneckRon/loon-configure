@@ -405,6 +405,18 @@
     {
       "name": "AppleMusic-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/AppleMusic-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Spotify-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Spotify-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Spotify-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Spotify-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Spotify-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Spotify-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
