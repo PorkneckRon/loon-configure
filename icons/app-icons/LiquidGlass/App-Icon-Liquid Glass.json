@@ -75,6 +75,18 @@
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Microsoft-LiquidGlass-WatchOS-1.png"
     },
     {
+      "name": "Microsoft-LiquidGlass-iOS-Default-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Microsoft-LiquidGlass-iOS-Default-2.png"
+    },
+    {
+      "name": "Microsoft-LiquidGlass-iOS-Dark-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Microsoft-LiquidGlass-iOS-Dark-2.png"
+    },
+     {
+      "name": "Microsoft-LiquidGlass-WatchOS-2",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Microsoft-LiquidGlass-WatchOS-2.png"
+    },
+    {
       "name": "Google-LiquidGlass-iOS-Default-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Google-LiquidGlass-iOS-Default-1.png"
     },
