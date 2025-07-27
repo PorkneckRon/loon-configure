@@ -277,6 +277,18 @@
     {
       "name": "Grindr-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Grindr-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "LinkedIn-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LinkedIn-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "LinkedIn-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LinkedIn-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "LinkedIn-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LinkedIn-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
