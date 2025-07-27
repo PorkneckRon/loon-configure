@@ -525,6 +525,18 @@
     {
       "name": "Final-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Final-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Hijacking-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Hijacking-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Hijacking-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Hijacking-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Hijacking-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Hijacking-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
