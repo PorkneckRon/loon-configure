@@ -313,6 +313,18 @@
     {
       "name": "Reddit-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Reddit-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "LINE-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LINE-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "LINE-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LINE-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "LINE-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/LINE-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
