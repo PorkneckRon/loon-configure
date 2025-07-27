@@ -357,6 +357,18 @@
     {
       "name": "Disney-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Disney-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Bilibili-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Bilibili-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Bilibili-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Bilibili-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Bilibili-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Bilibili-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
