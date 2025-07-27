@@ -241,6 +241,18 @@
     {
       "name": "Twitter-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Twitter-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Telegram-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Telegram-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Telegram-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Telegram-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Telegram-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Telegram-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
