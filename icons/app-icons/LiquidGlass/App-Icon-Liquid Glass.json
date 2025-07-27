@@ -381,6 +381,18 @@
     {
       "name": "YouTube-LiquidGlass-WatchOS-1",
       "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/YouTube-LiquidGlass-WatchOS-1.png"
+    },
+    {
+      "name": "Steam-LiquidGlass-iOS-Default-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Steam-LiquidGlass-iOS-Default-1.png"
+    },
+    {
+      "name": "Steam-LiquidGlass-iOS-Dark-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Steam-LiquidGlass-iOS-Dark-1.png"
+    },
+    {
+      "name": "Steam-LiquidGlass-WatchOS-1",
+      "url": "https://raw.githubusercontent.com/PorkneckRon/loon-configure/main/icons/app-icons/LiquidGlass/Steam-LiquidGlass-WatchOS-1.png"
     }
   ]
 }
